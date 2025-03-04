@@ -1,3 +1,9 @@
+/**
+ * @author: NiangJiCaiRang
+ * @date: 2024/3/4 19:18
+ * @description: 藏文拼读js工具函数表
+ */
+
 const frontChar = ['ག', 'ད', 'བ', 'མ', 'འ'];
 const headChar = ['ར', 'ལ', 'ས'];
 const footChar = ['ྱ', 'ྲ', 'ླ', 'ྺ'];
